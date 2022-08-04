@@ -1,5 +1,15 @@
 # Turns RF plug into AWS IoT device with Raspberry Pi
 
+Basic requirements:
+・AWS IoT knowledge.
+・Some Hardware and RF knowledge.
+・Python
+・MQTT
+・JDK
+・Django/Flask project experiences.
+・Some html page or Javascripts skills.
+
+
 Setup a Raspberry Pi as internet of things to connect to the [AWS IoT core](https://aws.amazon.com/iot-core/) and build a web page with two buttons to
 trigger the [RF remote plug](https://www.amazon.com/JTD-Generation-Auto-programmable-Electrical-Appliances/dp/B01JPOUJN4/). The web page is built with [Django](https://www.djangoproject.com/) framework.
 
